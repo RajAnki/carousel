@@ -24,4 +24,10 @@ Run ng test to execute the unit tests via Karma.
 
 Desktop:
 ![Alt text](/carousel-app/screenshot/CarouselApp_desktop.png)
+
+Tablet:
+![Alt text](/carousel-app/screenshot/CarouselApp_tablet.png)
+ 
+Mobile:
+![Alt text](/carousel-app/screenshot/CarouselApp_mobile.png)
  
