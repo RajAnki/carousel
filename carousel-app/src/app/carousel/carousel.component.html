@@ -1,0 +1,16 @@
+<!-- Sliding Images -->
+<div class="carousel-container">
+  <div class="fade">
+    <img src="{{currentImage}}">
+  </div>
+  <app-user-form class="desktop-only"></app-user-form>
+  <!-- Next and previous buttons -->
+  <button class="prev" (click)="slideImage(false)">&#10094;</button>
+  <button class="next" (click)="slideImage(true)">&#10095;</button>
+  <!-- The dots/circles -->
+  <div class="dot-wrapper">
+    <span class="dot" *ngFor="let image of carouselImages; let i = index"
+          (click)="showCurrentSlide(i)" [ngClass]="{'dot-active': i == indexOfCurrentImage}"></span>
+  </div>
+
+</div>

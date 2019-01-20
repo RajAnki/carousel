@@ -1,0 +1,24 @@
+nav {
+  color: #00a1de;
+  border-top: 0.1em solid #00a1de54;
+  margin: 1em 0.4em;
+  padding-top: 1em;
+}
+
+nav a{
+  margin-right: 2em;
+  cursor: pointer;
+}
+
+.search {
+  width: 2em;
+  background: url(../../assets/images/search.png) no-repeat 5px 4px;
+  border: none;
+  margin-left: 0.5em;
+}
+
+@media screen and (max-width: 768px) {
+  nav a{
+    margin-right: 1em;
+  }
+}

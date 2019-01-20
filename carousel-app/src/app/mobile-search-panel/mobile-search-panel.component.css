@@ -1,0 +1,18 @@
+.search{
+  background: url(../../assets/images/search.png) no-repeat 5px 4px;
+  border-radius: 0.2em;
+  border: 0.08em solid #00a1de;
+  padding: 0.5em;
+  width: 22em;
+  background-color: white;
+}
+
+.mobile-search-panel{
+  background-color: #00a1de;
+  padding: 0.5em;
+}
+
+.mobile-search-panel label{
+  font-weight: bold;
+  color: white;
+}

@@ -1,0 +1,10 @@
+
+.header-wrapper {
+  margin: 1em;
+}
+
+@media screen and (max-width: 768px){
+  .header-wrapper {
+    margin: 0;
+  }
+}

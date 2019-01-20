@@ -1,0 +1,89 @@
+.banner{
+  display: inline-block;
+}
+
+.banner span{
+  display: inline-block;
+  margin-left: 0.5em;
+}
+
+.logo{
+  background: url("../../assets/images/klm_head@2x.png")  no-repeat;
+  width: 9em;
+  height: 5.5em;
+}
+
+.banner-name{
+  background: url("../../assets/images/rda_regular_2x_tcm542-466994.png")  no-repeat;
+  width: 9em;
+  height: 2em;
+}
+
+.banner-symbol{
+  background: url("../../assets/images/klm_skyteam@2x.png")  no-repeat;
+  width: 4em;
+  height: 4em;
+}
+
+.header-menu{
+  padding: 1.5em 0.5em 0.5em;
+  float: right;
+  color: #00a1de;
+}
+.header-menu-links a, span{
+  margin: 0 0.2em;
+  display: inline-block;
+}
+
+.header-menu-links a{
+  cursor: pointer;
+}
+
+.user{
+  background: url(../../assets/images/user_icon.png) no-repeat;
+  height: 1em;
+  width: 1em;
+}
+
+.flag{
+  background: url(../../assets/images/Netherlands_tcm542-186608.png) no-repeat;
+  height: 1em;
+  width: 1em;
+}
+
+.search{
+  background: url(../../assets/images/search.png) no-repeat 5px 4px;
+  margin: 0.7em 0.1em;
+  border-radius: 0.2em;
+  border: 0.08em solid #00a1de;
+  padding: 0.5em 0 0.5em 2em;
+  float: right;
+  width: 11em;
+}
+
+@media screen and (max-width: 768px){
+  .logo{
+    background: url("../../assets/images/klm_mobile_logo.png")  no-repeat;
+    width: 4em;
+    height: 3em;
+  }
+
+  .header-menu-mobile{
+    padding-top: 1em;
+    padding-right: 0.2em;
+    float: right;
+  }
+
+  .header-menu-mobile button{
+    height: 2em;
+    width: 2em;
+    margin-right: 0.2em;
+    border: 0.08em solid #00a1de;
+  }
+
+  .hamburger{
+    background: url("../../assets/images/hamburger.png") no-repeat;
+    height: 1em;
+    width: 1em;
+  }
+}
