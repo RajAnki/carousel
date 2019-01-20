@@ -6,7 +6,7 @@ This project is a single page application for flight booking with carousel. It h
 Angular 7, NPM, Typescript, HTML5, CSS3, Javascript and Jasmine
 
 # Running the Application
-Clone the project or download and extract the .zip to get started.
+Clone the project or download to get started.
 
 Run npm install to install app dependencies
 
