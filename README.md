@@ -1,4 +1,4 @@
-# carousel
+# Carousel
 
 This project is a single page application for flight booking with carousel. It has been developed in Angular 7 framework and Test scripts has been written in Jasmine. Its responsive application which supports desktop, tablets and mobile devices.
 
