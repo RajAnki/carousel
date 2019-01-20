@@ -26,7 +26,7 @@ Desktop:
 ![Alt text](/carousel-app/screenshot/CarouselApp_desktop.png)
 
 Tablet:
-![Alt text](/carousel-app/screenshot/CarouselApp_tablet.png)
+![Alt text](/carousel-app/screenshot/CarouselApp_tablet_image.png)
  
 Mobile:
 ![Alt text](/carousel-app/screenshot/CarouselApp_mobile.png)
