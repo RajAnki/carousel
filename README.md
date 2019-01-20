@@ -23,5 +23,5 @@ Run ng test to execute the unit tests via Karma.
 # Screenshot
 
 Desktop:
-![Alt text](/RajAnki/carousel/edit/master/carousel-app/screenshot/CarouselApp_desktop.png)
+![Alt text](/carousel-app/screenshot/CarouselApp_desktop.png)
  
