@@ -19,4 +19,9 @@ Run ng build to build and bundle the code. Use the -prod flag for a production b
 
 # Running unit tests
 Run ng test to execute the unit tests via Karma.
+
+# Screenshot
+
+Desktop:
+![Alt text](/RajAnki/carousel/edit/master/carousel-app/screenshot/CarouselApp_desktop.png)
  
